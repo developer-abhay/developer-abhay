@@ -5,15 +5,15 @@ Currently, I'm a freelance ninja, slicing through projects with precision and st
 Fun fact : do you know that spiders are the only web developers that are happy to find bugs.
 
 # 🛠️ Technologies & Tools
-Front-end: HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Material UI, TypeScript
-Back-end: Node.js, Express, Next.js
-Databases: MongoDB, MySQL, PostgreSQL
-Others: Git, GitHub, Prisma
+Front-end: HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Material UI, TypeScript  
+Back-end: Node.js, Express, Next.js  
+Databases: MongoDB, MySQL, PostgreSQL  
+Others: Git, GitHub, Prisma  
 
 # 🚀 About Me
-👯 I’m looking to collaborate on open-source projects and exciting new ideas.
-💬 Ask me about web development, or anything tech-related things.
-📫 How to reach me: abhaysharma.developer@gmail.com
+👯 I’m looking to collaborate on open-source projects and exciting new ideas.  
+💬 Ask me about web development, or anything tech-related things.  
+📫 How to reach me: abhaysharma.developer@gmail.com  
 
 # 📈 GitHub Stats
 Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech. Let's build something amazing together!
