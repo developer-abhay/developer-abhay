@@ -5,9 +5,11 @@ Currently, I'm a freelance ninja, slicing through projects with precision and st
 Fun fact : do you know that spiders are the only web developers that are happy to find bugs.
 
 # 🛠️ Technologies & Tools
-Front-end: HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Material UI, TypeScript  
-Back-end: Node.js, Express, Next.js  
+Languages: JavaScript and TypeScript obviously
+Front-end: Next.js, React, Tailwind, Material UI, antD etc.
+Back-end: Node.js, Express, Hono, NestJS  
 Databases: MongoDB, MySQL, PostgreSQL  
+Cloud: Cloudflare, Aws Services like EC2,S3,Cognito etc.
 Others: Git, GitHub, Prisma  
 
 # 🚀 About Me
