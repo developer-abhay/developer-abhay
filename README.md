@@ -6,9 +6,7 @@ Fun fact : do you know that spiders are the only web developers that are happy t
 
 # 🛠️ Technologies & Tools
 Languages: JavaScript and TypeScript obviously
-
 Front-end: Next.js, React, Tailwind, Material UI, antD etc.
-
 Back-end: Node.js, Express, Hono, NestJS  
 Databases: MongoDB, MySQL, PostgreSQL  
 Cloud: Cloudflare, Aws Services like EC2,S3,Cognito etc.
